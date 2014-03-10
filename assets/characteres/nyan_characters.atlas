@@ -1,0 +1,187 @@
+
+nyan_characters.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FONDO
+  rotate: false
+  xy: 1, 412
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+speed
+  rotate: false
+  xy: 1, 378
+  size: 250, 32
+  orig: 250, 32
+  offset: 0, 0
+  index: -1
+ikea6
+  rotate: false
+  xy: 963, 917
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+ikea8
+  rotate: false
+  xy: 1, 329
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+ikea7
+  rotate: false
+  xy: 1, 286
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+badguy2
+  rotate: false
+  xy: 83, 332
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+badguy4
+  rotate: false
+  xy: 1, 241
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+badguy1
+  rotate: false
+  xy: 148, 332
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+badguy3
+  rotate: false
+  xy: 1, 196
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+badguy6
+  rotate: false
+  xy: 1, 151
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+badguy5
+  rotate: false
+  xy: 1, 109
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+NYANCATRAINBOWTEAMPLATE
+  rotate: false
+  xy: 253, 382
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+goodguy3
+  rotate: false
+  xy: 963, 877
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+goodguy2
+  rotate: false
+  xy: 1, 70
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+goodguy4
+  rotate: false
+  xy: 963, 837
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+goodguy1
+  rotate: false
+  xy: 1, 31
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+ikea5
+  rotate: false
+  xy: 325, 381
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+NYANCAT
+  rotate: false
+  xy: 963, 807
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+NYANCATRAINBOW
+  rotate: false
+  xy: 1, 1
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+ikea4
+  rotate: false
+  xy: 377, 386
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+ikea3
+  rotate: false
+  xy: 212, 358
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+RAINBOW1
+  rotate: false
+  xy: 73, 295
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+RAINBOW2
+  rotate: false
+  xy: 1013, 883
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+ikea2
+  rotate: false
+  xy: 963, 793
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+RAINBOW
+  rotate: false
+  xy: 51, 83
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+ikea1
+  rotate: false
+  xy: 1013, 875
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1

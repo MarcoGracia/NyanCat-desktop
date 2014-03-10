@@ -1,0 +1,13 @@
+35
+450
+-         
+-    g g g g    g g g g g    gg       g    g g g g g    g
+-    g          g       g    g g      g        g        g
+-    g          g       g    g  g     g        g        g
+-    g          g       g    g   g    g        g        g
+-    ggggggg    g g g g g    g    g   g        g        g
+-          g    g       g    g     g  g        g        g
+-          g    g       g    g      g g        g        g
+-          g    g       g    g       gg        g        g
+-    g g g g    g       g    g        g        g        g
+-

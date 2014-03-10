@@ -1,0 +1,13 @@
+5
+250
+-gg              g
+- gg              g               g            g
+-  gg              g               g           g
+-                   g                          g
+-         g   g      g            g            g     g
+-          g g        g            g           g     g
+-           g          g                       g     g
+-                       g         g            g     g
+-g g g            g      g         g           g
+-                g g      g                    g
+-                 g        g      g            g

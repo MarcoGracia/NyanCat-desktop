@@ -1,0 +1,26 @@
+38 x 48
+540 x 950
+
+primer número tasa ikeas de 0 a 50
+segundo numero velocidad gatos
+
+Once lineas comenzando con un guión
+espacio = 48 px vacíos
+g = gato
+
+
+
+
+5
+750
+-gg              g                                                        g
+-   gg              g               g            g                                        g g  g g 
+-      gg              g               g           g                                      g      g
+-                         g                          g                                    g      g
+-         g   g              g                         g     ggg                          g g  g g
+-          g g                  g                        g     g          g g             g g  g g
+-           g                      g                       g     g         g              g      g
+-                                     g         g            g     ggg                    g      g
+-g g g            g                      g         g           g                          g      g
+-                g         g                g                    g                        g g  g g
+-                 g                             g                  g       g
